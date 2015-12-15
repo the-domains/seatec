@@ -1,7 +1,7 @@
 name: Seatec
 favicon: null
-layout_spectrum: 0.04303124803118408
-typography_spectrum: 0.47847803914919496
+layout_spectrum: 0.21911
+typography_spectrum: 0.07501
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.09153809072449803
+    - '#dee0df'
+    - '#050507'
+    - '#607089'
+    - '#88b9e1'
+    - '#f2910c'
+  brandStrength: 0.1875
   lightness: 0.7977090566419065
-  saturation: 0.37888755835592747
+  saturation: 0.25
   rhythmicContrast: 0.4186744731850922
 purpose: []
