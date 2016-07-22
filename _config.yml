@@ -1,29 +1,41 @@
-name: Seatec
-favicon: null
-layout_spectrum: 0.21911
-typography_spectrum: 0.07501
-title: 'Search & Rescue - Salvage'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Search & Rescue - Salvage
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.25
+  brandStrength: 0.1875
+  rhythmicContrast: 0.4186744731850922
   brandColors:
     - '#dee0df'
     - '#050507'
     - '#607089'
     - '#88b9e1'
     - '#f2910c'
-  brandStrength: 0.1875
   lightness: 0.7977090566419065
-  saturation: 0.25
-  rhythmicContrast: 0.4186744731850922
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Seatec
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.07501
+layout_spectrum: 1
